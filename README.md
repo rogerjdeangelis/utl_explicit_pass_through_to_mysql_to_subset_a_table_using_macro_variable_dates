@@ -1,0 +1,2 @@
+# utl_explicit_pass_through_to_mysql_to_subset_a_table_using_macro_variable_dates
+Explicit Pass Through to mySQL to Subset a table using macro variable dates. Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverfl SAS community.
